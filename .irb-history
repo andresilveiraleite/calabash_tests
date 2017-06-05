@@ -1,0 +1,47 @@
+  enter_text("SystemWebView css:'input'", "10895003783")
+  enter_text("SystemWebView css:'input.password'", "5455")
+touch("SystemWebView css:'input.button.btn-primary.button-big'")
+start_test_server_in_background
+exit
+start_test_server_in_background
+install_apps
+install_app
+install_apps
+start_test_server_in_background]
+exit
+install_app
+install_apps
+start_test_server_in_background]
+start_test_server_in_background]
+start_test_server_in_background
+exit
+start_test_server_in_background
+ touch("SystemWebView css:'span.text_primary'")
+keyboard_enter_text("10895003783")
+  enter_text("SystemWebView css:'input.login'","10895003783")
+  enter_text("SystemWebView css:'input'", "10895003783")
+enter_text("SystemWebView css:'input.password'", "5455")
+start_test_server_in_background
+ touch("SystemWebView css:'span.text_primary'")
+start_test_server_in_background
+start_test_server_in_background
+ touch("SystemWebView css:'span.text_primary'")
+  enter_text("SystemWebView css:'input'", "10895003783")
+enter_text("SystemWebView css:'input.password'", "5455")
+ touch("SystemWebView css:'span.text_primary'")
+reinstall_apps
+enter_text("SystemWebView css:'input.password'", "5455")
+start_test_server_in_background
+start_test_server_in_background
+exit
+reinstall_apps
+start_test_server_in_background
+ touch("SystemWebView css:'span.text_primary'")
+  enter_text("SystemWebView css:'input'", "10895003783")
+enter_text("SystemWebView css:'input.password'", "5455")
+start_test_server_in_background
+exit
+start_test_server_in_background
+start_test_server_in_background
+start_test_server_in_background
+exit
